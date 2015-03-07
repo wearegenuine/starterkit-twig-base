@@ -24,9 +24,10 @@
 		"source":         "https://github.com/pattern-lab/starterkit-twig-base/releases"
 	},
 	"require": {
-		"pattern-lab/core": "dev-dev",
-		"pattern-lab/patternengine-twig": "dev-dev"
+		"pattern-lab/core": "~0.5",
+		"pattern-lab/patternengine-twig": "~0.5"
 	},
+	"minimum-stability": "dev",
 	"extra": {
 		"patternlab": {
 			"dist": {
