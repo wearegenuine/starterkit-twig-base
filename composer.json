@@ -27,6 +27,7 @@
 		"pattern-lab/core": "dev-dev",
 		"pattern-lab/patternengine-twig": "dev-dev"
 	},
+	"minimum-stability": "dev",
 	"extra": {
 		"patternlab": {
 			"dist": {
