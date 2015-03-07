@@ -1,4 +1,4 @@
-# Base StarterKit for Twig
+# Base StarterKit for Twig 
 
 The Base StarterKit for Twig is meant to be used as a near-blank starting point for Twig-based projects in Pattern Lab.
 
