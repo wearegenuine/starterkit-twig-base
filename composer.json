@@ -1,6 +1,6 @@
 {
 	"name":             "pattern-lab/starterkit-twig-base",
-	"description":      "The Twig-based base StarterKit for Pattern Lab.",
+	"description":      "Pattern Lab's Base StarterKit for Twig.",
 	"keywords":         ["twig", "pattern lab", "starterkit", "demo"],
 	"homepage":         "http://patternlab.io",
 	"license":          "MIT",
@@ -24,7 +24,8 @@
 		"source":         "https://github.com/pattern-lab/starterkit-twig-base/releases"
 	},
 	"require": {
-		"pattern-lab/core": "~0.5",
+		"pattern-lab/core": "dev-dev",
+		"pattern-lab/patternengine-twig": "dev-dev"
 	},
 	"extra": {
 		"patternlab": {
