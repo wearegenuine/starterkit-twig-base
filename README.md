@@ -1,6 +1,12 @@
 # Base StarterKit for Twig
 
-This StarterKit is meant to be used as a near-blank starting point for Twig-based projects in Pattern Lab.
+The Base StarterKit for Twig is meant to be used as a near-blank starting point for Twig-based projects in Pattern Lab.
+
+## Requirements
+
+The Base StarterKit for Twig requires the following PatternEngine:
+
+* `pattern-lab/patternengine-twig`: [documentation](https://github.com/pattern-lab/patternengine-php-twig#twig-patternengine-for-pattern-lab), [GitHub](https://github.com/pattern-lab/patternengine-php-twig), [Packagist](https://packagist.org/packages/pattern-lab/patternengine-twig)
 
 ## Install
 
