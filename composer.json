@@ -25,7 +25,7 @@
 	},
 	"require": {
 		"pattern-lab/core": "0.*",
-		"pattern-lab/patternengine-twig": "0.*",
+		"wearegenuine/patternengine-twig": "0.*",
 		"twig/twig": "1.*"
 	},
 	"minimum-stability": "dev",
@@ -35,9 +35,6 @@
 				"sourceDir": [
 					{ "*": "*" }
 				]
-			},
-			"config": {
-				"lineageMatch": "{%([ ]+)?(?:extends|include|embed) [&quot;\&#039;]([A-Za-z0-9-_]+)[&quot;\&#039;](.*)%}"
 			}
 		}
 	}
